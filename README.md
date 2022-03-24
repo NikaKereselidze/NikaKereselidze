@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on ... C / C++ Projects
 - 🤔 I’m looking for help with ... C / C++
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email Address](nikakereselidze17@gmail.com)
+- 📫 How to reach me: ... <a href="mailto:nikakereselidze17@gmail.com">Email Address</a>
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... I'm from georgia
+- ⚡ Fun fact: ... I'm from Georgia (Country)
