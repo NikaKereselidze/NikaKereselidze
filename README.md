@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on ... Node.js
-- 🌱 I’m currently learning ... C / C++
-- 👯 I’m looking to collaborate on ... C / C++ Projects
-- 🤔 I’m looking for help with ... C / C++
+- 🌱 I’m currently learning ... React Native
+- 👯 I’m looking to collaborate on ... React Native Projects
+- 🤔 I’m looking for help with ... React Native
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:nikakereselidze17@gmail.com">Email Address</a>
 - 😄 Pronouns: ... He / Him
