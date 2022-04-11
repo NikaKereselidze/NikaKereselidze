@@ -1,4 +1,4 @@
-![gif](https://github.com/NikaKereselidze/NikaKereselidze/blob/main/giphy.gif?raw=true)
+![gif](https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif)
 
 ### Hi there 👋
 
