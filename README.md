@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif)
+![gif](https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized-large.gif)
 
 ### Hi there 👋
 
