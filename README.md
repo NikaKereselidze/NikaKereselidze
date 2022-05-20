@@ -37,3 +37,8 @@
 ![](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikaKereselidze&theme=dark&langs_count=10)
+
+## My Streak 📉
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikaKereselidze&theme=dark)
