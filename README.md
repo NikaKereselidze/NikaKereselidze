@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized-large.gif)
+![img](https://kagi.com/proxy/avatarjpg-96676e7d00ca5c5e.jpg?c=YqURNQFo184-k7iq0ASHEAjOg4bEoZNQT40jJO98fc6VAA6hhjWi-Mha03VCrxXIthQGD9Wojk920YFG4QTOPpk1DHQmOU6-hOktSlrC-AM1yHZMLJ-xMBipAn6yWyzU6ylsLOLCcWBZVaSsf1qwZxBU_QXz4DOZYarmeYad5yzRxNn3OW9P8vIZR5b5pbJX4CZxvkeZzFhc6u5CymeSiYTwJe0qrZyrgIv5Sht1IUTYmSt7P2cNbdr_962CQ9BzwQL49Sf_keBEmWLCp_5jQxTWDBeZ0dz0a6mgetZSPwLnERVMlkrWvYZowfjoNPvu)
 <br /><br />
 <a href="https://twitter.com/intent/follow?screen_name=NikaKeresa17"><img src="https://img.shields.io/twitter/follow/NikaKeresa17?style=social" /></a>
 [![Linkedin: Nika Kereselidze](https://img.shields.io/badge/-Nika%20Kereselidze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nika-kereselidze-67b4a7219/)](https://www.linkedin.com/in/nika-kereselidze-67b4a7219/)
