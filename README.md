@@ -14,8 +14,7 @@
 - 🤔 I’m looking for help with ... React Native && C
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:nikakereselidze17@gmail.com">Email Address</a>
-- 🔗 Connect with me on LinkedIn: ... <a href="https://linkedin.com/in/nika-kereselidze-67b4a7219/" target="_blank">Nika Kereselidze on LinkedIn</a>
-- - 😄 Pronouns: ... He / Him
+- 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I'm from Georgia (Country)
 
 ## My Skills 💪
