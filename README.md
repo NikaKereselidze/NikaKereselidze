@@ -8,9 +8,6 @@
 
 
 - 🔭 I’m currently working on ... Node.js
-- 🌱 I’m currently learning ... React Native && C
-- 👯 I’m looking to collaborate on ... React Native && C Projects
-- 🤔 I’m looking for help with ... React Native && C
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:nikakereselidze17@gmail.com">nikakereselidze17@gmail.com</a>
 - 😄 Pronouns: ... He / Him
