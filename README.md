@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on ... Node.js
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:nikakereselidze17@gmail.com">nikakereselidze17@gmail.com</a>
-- 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I'm from Georgia (Country)
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=NikaKereselidze&theme=react-dark) -->
