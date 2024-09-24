@@ -4,17 +4,7 @@
 [![Linkedin: Nika Kereselidze](https://img.shields.io/badge/-Nika%20Kereselidze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nika-kereselidze-67b4a7219/)](https://www.linkedin.com/in/nika-kereselidze-67b4a7219/)
 
 
-### Hi there 👋
-
-
-- 🔭 I’m currently working on ... Node.js
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... <a href="mailto:nikakereselidze17@gmail.com">nikakereselidze17@gmail.com</a>
-- ⚡ Fun fact: ... I'm from Georgia (Country)
-
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=NikaKereselidze&theme=react-dark) -->
-
-## My Skills 💪
+## My Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -33,5 +23,5 @@
 ![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## My Streak 📉
+## My Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikaKereselidze&theme=dark)
