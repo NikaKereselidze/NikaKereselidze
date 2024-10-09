@@ -1,5 +1,3 @@
-<br /><br />
-              
 <a href="https://twitter.com/intent/follow?screen_name=NikaKeresa17"><img src="https://img.shields.io/twitter/follow/NikaKeresa17?style=social" /></a>
 
 ## My Skills
