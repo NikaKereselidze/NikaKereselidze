@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized-large.gif)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <br /><br />
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nika-kereselidze-67b4a7219" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ge.linkedin.com/in/nika-kereselidze-67b4a7219?trk=profile-badge">Nikoloz Kereselidze</a></div>
               
