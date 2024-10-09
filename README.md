@@ -1,10 +1,6 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <br /><br />
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nika-kereselidze-67b4a7219" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ge.linkedin.com/in/nika-kereselidze-67b4a7219?trk=profile-badge">Nikoloz Kereselidze</a></div>
               
 <a href="https://twitter.com/intent/follow?screen_name=NikaKeresa17"><img src="https://img.shields.io/twitter/follow/NikaKeresa17?style=social" /></a>
-
-
 
 ## My Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
