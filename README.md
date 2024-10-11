@@ -1,3 +1,4 @@
+[![Linkedin: Nika Kereselidze](https://img.shields.io/badge/-Nika%20Kereselidze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nika-kereselidze-67b4a7219/)](https://www.linkedin.com/in/nika-kereselidze-67b4a7219/)
 <a href="https://twitter.com/intent/follow?screen_name=NikaKeresa17"><img src="https://img.shields.io/twitter/follow/NikaKeresa17?style=social" /></a>
 
 ## My Skills
